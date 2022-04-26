@@ -62,12 +62,12 @@ function Footer() {
                         <Grid item xs={12} sm={3}>
                           <Box className="tittle" borderBottom="1">About the Authors</Box>
                           <Box className="quicklinks">
-                          <a className="socialbrands" href="linkedin.com/in/sergio-robledo-9b1a33187"><LinkedInIcon className="iconIgPrueba"/>  Agustín Montoya</a>
-                          <a className="socialbrands" href="linkedin.com/in/sergio-robledo-9b1a33187"><LinkedInIcon className="iconIgPrueba"/>  Gabriel Farfan</a>
+                          <a className="socialbrands" href="https://www.linkedin.com/in/sergio-robledo-9b1a33187"><LinkedInIcon className="iconIgPrueba"/>  Agustín Montoya</a>
+                          <a className="socialbrands" href="https://www.linkedin.com/in/sergio-robledo-9b1a33187"><LinkedInIcon className="iconIgPrueba"/>  Gabriel Farfan</a>
                           <a className="socialbrands" href="https://www.linkedin.com/in/chantal-pilia-983387237/"><LinkedInIcon className="iconIgPrueba"/>  Chantal Pilia</a>
-                          <a className="socialbrands" href="linkedin.com/in/sergio-robledo-9b1a33187"><LinkedInIcon className="iconIgPrueba"/>  Hugo Onofri</a>
-                          <a className="socialbrands" href="linkedin.com/in/sergio-robledo-9b1a33187"><LinkedInIcon className="iconIgPrueba"/>  Emanuel Villagra</a>
-                          <a className="socialbrands" href="linkedin.com/in/sergio-robledo-9b1a33187"><LinkedInIcon className="iconIgPrueba"/>  Sergio Robledo</a>
+                          <a className="socialbrands" href="https://www.linkedin.com/in/sergio-robledo-9b1a33187"><LinkedInIcon className="iconIgPrueba"/>  Hugo Onofri</a>
+                          <a className="socialbrands" href="https://www.linkedin.com/in/emanuel-villagra-69077b222/"><LinkedInIcon className="iconIgPrueba"/>  Emanuel Villagra</a>
+                          <a className="socialbrands" href="https://www.linkedin.com/in/sergio-robledo-9b1a33187"><LinkedInIcon className="iconIgPrueba"/>  Sergio Robledo</a>
                           
                           </Box>
                         </Grid>
