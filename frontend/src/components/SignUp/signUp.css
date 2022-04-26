@@ -1,0 +1,15 @@
+.signUpWrapper{
+    width: 85vw;
+    margin: auto;
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
+
+.linkEditSignUp{
+    text-decoration: none;
+    color: #083900;
+    font-size: 1.2rem;
+    /* font-weight: bold; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
